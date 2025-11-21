@@ -19,7 +19,8 @@ live_status.json
 
 # 個人的なログ
 *.md
-*.txt
 !singularity_report.txt
+!singularity_report2.txt
+!singularity_report2_en.txt
 !README.md
 !code_generation_impact_report.md
