@@ -20,3 +20,4 @@ nppBackup/
 *.md
 *.txt
 !singularity_report.txt
+!README.md
