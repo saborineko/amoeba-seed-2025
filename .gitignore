@@ -1,0 +1,22 @@
+# Python関連のキャッシュファイル
+__pycache__/
+*.pyc
+
+# エディタのバックアップファイル
+nppBackup/
+
+# OSが自動生成するファイル
+.DS_Store
+
+# ★★★ 機密情報とソースコード ★★★
+*.py
+*.json
+*.bat
+
+# ZIPバックアップ
+*.zip
+
+# 個人的なログ
+*.md
+*.txt
+!singularity_report.txt
