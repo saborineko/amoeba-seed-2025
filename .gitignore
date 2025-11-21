@@ -10,7 +10,8 @@ nppBackup/
 
 # ★★★ 機密情報とソースコード ★★★
 *.py
-*.json
+savestate.json
+live_status.json
 *.bat
 
 # ZIPバックアップ
