@@ -21,3 +21,4 @@ nppBackup/
 *.txt
 !singularity_report.txt
 !README.md
+!code_generation_impact_report.md
